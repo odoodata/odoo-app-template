@@ -1,2 +1,1 @@
-# odoo-app-template
-Odoo App Template
+# Odoo App Template
