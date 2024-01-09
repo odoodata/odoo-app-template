@@ -1,1 +1,1 @@
-# Odoo App Template
+# Odoo App Template.
